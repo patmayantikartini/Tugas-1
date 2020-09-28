@@ -8,9 +8,9 @@ int main ()
   char *p2;
 
   cout << " Nama : " << nama << "\n";
-  cout << " Kelas : " << kelas << "\n";
+  cout << " Kelas : " << kelas << "\n""\n";
 
-  cout << " Operasi Poiter : " << "\n";
+  cout << " Operasi Poiter ==> " << "\n""\n";
 
   p1 = &nama;
   p2 = &kelas;
